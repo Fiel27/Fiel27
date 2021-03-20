@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fiel27
+- 👀 I’m interested in programming, data collection automation (queries), and others I might haven't found yet
+- 🌱 I’m currently learning programming in Google Scripts
