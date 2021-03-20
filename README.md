@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning programming in Google Scripts
 - I love Music, my genres are usually Indie, Funk, J-Pop, VGM, Classical, uh.... a lot actually but I couldn't think more for now
 - I like playing video games, currently hooked on Valheim. I play rhythm games a lot
-- 
